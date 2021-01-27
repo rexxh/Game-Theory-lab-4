@@ -1,1 +1,1 @@
-# Game-Theory-lab-4
+См. отчет
